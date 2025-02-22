@@ -2,7 +2,6 @@
 
 ### Currently: 
 CS @ Georgia Tech \
-SWE Intern @ Union Pacific
 
 ### Links:
 Website: [justinqxia.com](https://justinqxia.com) \

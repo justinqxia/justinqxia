@@ -1,7 +1,7 @@
 ## Howdy 🤠
 
 ### Currently: 
-CS @ Georgia Tech \
+CS @ Georgia Tech
 
 ### Links:
 Website: [justinqxia.com](https://justinqxia.com) \

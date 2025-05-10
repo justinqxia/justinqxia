@@ -1,18 +1,18 @@
 ```text
 justinqxia@GitHub:~$ fastfetch
-         %%%####%%%%% %#**#%                            justinqxia@GitHub
-     %%*=============+%*==*%                            -----------------
-   %#=======+*****+=======*%                            Name: Justin Xia
-  %+=====*%%       %%#+===*%                            School: Georgia Tech
-@%=====+%              %%%%%                            Major: Computer Science
-%=====+%         %#=========================#           Expected Grad: May 2026
-%=====*%         %#=========================#           Currently: SWE Intern @ Google
-%=====+%         %#==*%%*==#%%====+%%%%%%+==#           Previously: Union Pacific, DataPath, GTRC
-%%=====*%        %%%%%%#===# %====+%    %%%%%           Languages: Python, Java, C++, TypesScript
- %#======#%@        %%+====# %====+%                    Frameworks: Spring Boot, React, Angular, Django
-   %*========*%%%%*========# %====+%                    Tools/Platforms: Git, Subversion, Docker, AWS, GCP
-     %%+============+*%%+++% %====+%                    LinkedIn: https://linkedin.com/in/justinqxia
-         %%%%%%%%%%       %%%%====+%%%                  GitHub: https://github.com/justinqxia
-                          %#=========%                  Website: https://justinqxia.com
-                          %#*********%                  Email: me@justinqxia.com
+         %%%####%%%%% %#**#%                     justinqxia@GitHub
+     %%*=============+%*==*%                     -----------------
+   %#=======+*****+=======*%                     Name: Justin Xia
+  %+=====*%%       %%#+===*%                     School: Georgia Tech
+@%=====+%              %%%%%                     Major: Computer Science
+%=====+%         %#=========================#    Expected Grad: May 2026
+%=====*%         %#=========================#    Currently: SWE Intern @ Google
+%=====+%         %#==*%%*==#%%====+%%%%%%+==#    Previously: Union Pacific, DataPath, GTRC
+%%=====*%        %%%%%%#===# %====+%    %%%%%    Languages: Python, Java, C++, TypesScript
+ %#======#%@        %%+====# %====+%             Frameworks: Spring Boot, React, Angular, Django
+   %*========*%%%%*========# %====+%             Tools/Platforms: Git, Subversion, Docker, AWS, GCP
+     %%+============+*%%+++% %====+%             LinkedIn: https://linkedin.com/in/justinqxia
+         %%%%%%%%%%       %%%%====+%%%           GitHub: https://github.com/justinqxia
+                          %#=========%           Website: https://justinqxia.com
+                          %#*********%           Email: me@justinqxia.com
 ```

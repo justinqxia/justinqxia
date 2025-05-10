@@ -14,7 +14,7 @@ def generate_readme():
     combined_lines = []
     for ascii_line, detail_line in zip(ascii_lines, detail_lines):
         # Add 11 spaces after ASCII art and combine with detail
-        combined_line = f"{ascii_line}           {detail_line}"
+        combined_line = f"{ascii_line}    {detail_line}"
         combined_lines.append(combined_line)
     
     # Create the final content
